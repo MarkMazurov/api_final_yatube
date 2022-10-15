@@ -54,3 +54,7 @@ python manage.py runserver
 ```
 Получение списка групп: GET /api/v1/groups/
 ```
+## Автор проекта:
+
+<h3 align="center"><a href="https://github.com/MarkMazurov" target="_blank">#Марк Мазуров#</a> 
+</h3>
